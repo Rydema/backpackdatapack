@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "crafted_backpack": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "backpack:backpack"
+      }
+    }
+  },
+  "rewards": {
+    "function": "backpack:give_backpack"
+  }
+}
